@@ -1,2 +1,2 @@
 # Test1
-This is a description of github
+This is a test repository for lsk
